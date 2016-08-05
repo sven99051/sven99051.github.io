@@ -5,7 +5,7 @@
  */
 
 var rules = {
-  " ~*x is ~*y": [
+  "~*x is ~*y": [
     "~x is NOT ~y"
     ].
   "~*x hello ~*y": [
