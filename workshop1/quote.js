@@ -4,11 +4,11 @@
  * L&T quote generator
  */
 
-var things = ["Music", "Art", "Dance", "Theater", "Math", "Architecture"];
-var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
-var castles = ["museums", "bridges", "cities"]
-var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
-var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
+var things = ["Tennis", "Art", "Dance", "Theater", "Math", "Architecture"];
+var programmers = ["tennis playe", "artist", "choreographer", "director", "mathematician", "architect"]
+var castles = ["courts", "bridges", "cities"]
+var exertions = ["rally", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
+var airs = ["red clay", "atmosphere", "heavens", "ether", "wind"];
 
 var is = ["is", "is not", "is like", "includes", "excludes", "is beyond",
 	  "extends", "encodes", "represents", "signifies", "consists of"];
